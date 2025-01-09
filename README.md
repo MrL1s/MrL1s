@@ -1,31 +1,54 @@
 # 👋 Hi, I'm [MrL1s]!
-## 🚀 Frontend Developer | 💻 I write code with love for UX/UI
 
+🎨 **Frontend Developer** | 💻 *I write code with love for UX/UI*
 
-Here are some ideas to get you started:
+---
 
-- 🌱 Currently studying **Vue.js and UI/UX Design**
-- 💼 Working as a **Frontend developer**
-- ----------------------------------------------- -
-- 🤝 Open to new projects and collaborations
-- ⚡ Hobbies: music, volleyball, surfing the Internet, chess, programming.
+### 🚀 About me:
+- 🌱 Currently studying **Vue.js** and **UI/UX Design**.
+- 🧑‍💻 Working as **Frontend Developer**.
+- 🎯 Goal: to become an expert in web design and an expert in website development.
+
+---
+
+### 💼 Open for:
+- 📢 New projects and collaborations.
+- ⚡ Experimentation and development!
+
+---
 
 ### 🛠️ Skills:
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</div>
 
-### 🛠️ Skills text:
-- 🖌 **Frontend**: Tailwind, HTML, CSS, JavaScrip
-- 🛠 **Tools**: Git, GitHub, Webpack, Vite
-- 🌐 **Working with API**: Mokky, Axios
+---
 
-### 📫 Contact me:
-[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/@Egor_L1s)
+### ✏️ Skills in Text:
+- **Frontend**: TailwindCSS, HTML, CSS, JavaScript.
+- **Tools**: Git, GitHub, Webpack, Vite.
+- **Working with API**: Mocky, Axios.
 
-_ _____ _
-### 📈 Git stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrL1s&show_icons=true&hide=issues&theme=radical)
+---
+
+### 🔗 Projects:
+- 📘 *my projects will be here*
+
+
+---
+
+### 📊 GitHub Stats:
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrL1s&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrL1s&theme=radical" alt="GitHub Streak">
+</div>
+
+
+### 📫 Contact Me:
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Egor_L1s)
+
