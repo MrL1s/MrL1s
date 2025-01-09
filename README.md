@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [MrL1s]!
+# 👋 Hi, I'm MrL1s!
 
 🎨 **Frontend Developer** | 💻 *I write code with love for UX/UI*
 
