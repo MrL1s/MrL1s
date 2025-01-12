@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
  <img 
-src="https://img.shields.io/wordpress/plugin/required-php/:slug" alt="PHP">
+src="https://img.shields.io/wordpress/plugin/required-php" alt="PHP">
 </div>
 
 ---
