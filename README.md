@@ -31,6 +31,7 @@
 
 ### ✏️ Skills in Text:
 - **Frontend**: TailwindCSS, HTML, CSS, JavaScript.
+- **Backend**: PHP, Laravel, Node js.
 - **Tools**: Git, GitHub, Webpack, Vite.
 - **Working with API**: Mocky, Axios.
 
