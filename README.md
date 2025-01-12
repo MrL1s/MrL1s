@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
- <img alt="WordPress Plugin Required PHP Version" src="https://img.shields.io/wordpress/plugin/required-php/bbpress?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&label=healthiness&labelColor=abcdef&color=fedcba&cacheSeconds=3600">
+ <img alt="WordPress Plugin Required PHP Version" src="https://img.shields.io/wordpress/plugin/required-php/bbpress?style=flat&logo=appveyor&logoColor=violet">
 
 </div>
 
