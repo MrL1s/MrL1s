@@ -39,7 +39,7 @@
 ---
 
 ### 🔗 Projects:
-- 📘 *my projects will be here*
+📘 *my projects will be here*
 
 
 ---
@@ -52,5 +52,5 @@
 
 
 ### 📫 Contact Me:
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Egor_L1s)
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Egor_L1s)
 
