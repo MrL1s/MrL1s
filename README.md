@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About me:
-- 🌱 Constantly improving my skills in **JavaScript, Python (Flask, Aiogram), Go**.
+- 🌱 Constantly improving my skills in **JavaScript, TypeScript, Go**.
 - 🧑‍💻 Working as **Fullstack Developer**.
 - 🎯 Goal: to become an expert in web development and UX/UI.
 
@@ -33,16 +33,17 @@
 ---
 
 ### ✏️ Skills in Text:
-- **Frontend**: TailwindCSS, HTML, CSS, JavaScript, Vue.js.
-- **Backend**: Python (Flask, Aiogram), Go.
-- **Database**: PostgreSQL, SQLite.
-- **Tools**: Git, GitHub, Webpack, Vite, Docker.
+- **Frontend**: HTML, HTMX, CSS, JavaScript, Vue.js, Nuxt.js, Astro.js, TailwindCSS, Gsap.
+- **Backend**: Node.js, Go.
+- **Database**: PostgreSQL, SQLite, MongoDb.
+- **Tools**: Git, GitHub, GitLab, Docker.
 - **Working with API**: REST API, WebSockets, Axios.
 
 ---
 
 ### 🔗 Projects:
-📘 *My projects will be here*
+📘 Money Shop *Favorite*
+📘 AdovDev studio *my work on kwork*
 
 ---
 
@@ -55,4 +56,4 @@
 ---
 
 ### 📫 Contact Me:
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Egor_L1s)
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Egonys_korion)
